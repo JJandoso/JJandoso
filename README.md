@@ -61,7 +61,7 @@
   <img align="right" alt="Rafa-pic" height="200" style="border-radius:150px;" src="https://cdn.dribbble.com/users/1055192/screenshots/3709363/guitars_morphing.gif">
 </div>
 
- ##
+ ### Connect with me:
  
 <div> 
    <a href="https://www.linkedin.com/in/joshua-jandoso/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
