@@ -9,6 +9,9 @@
 
 ⚡ Fun fact: I play guitar and bass 🎸 🎶 🤘
 
+
+
+
 <div align="center">
   <a href="https://github.com/JJandoso">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JJandoso&show_icons=true&theme=maroongold&include_all_commits=true&count_private=true"/>
@@ -55,6 +58,8 @@
     </td>
   </tr>
 </table>
+  <img align="right" alt="Rafa-pic" height="200" style="border-radius:150px;" src="https://cdn.dribbble.com/users/1055192/screenshots/3709363/guitars_morphing.gif">
+</div>
 
  ##
  
