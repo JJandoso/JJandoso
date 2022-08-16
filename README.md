@@ -1,8 +1,10 @@
 ### Hi there! I'm Joshua, nice to meet you! 👋
 
+📱  Mobile App developer
+   
 🌎 Dual nationality - American and Brazilian
 
-🖥️ I’m currently learning Data Science and Python
+🖥️ I’m currently learning Swift and Python
 
 🏄‍ Community guy who loves being involved in communities and help students grow
 
@@ -34,9 +36,9 @@
     </td>
     <td align="center" width="96">
       <a href="#jjandoso-tech">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" width="48" height="48" alt="Typescript" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg" width="48" height="48" alt="java" />
       </a>
-      <br>Typescript
+      <br>Java
     </td>
     <td align="center" width="96">
       <a href="#jjandoso-tech">
@@ -46,15 +48,21 @@
     </td>
     <td align="center" width="96">
       <a href="#jjandoso-tech">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="48" height="48" alt="TypeScript" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" width="48" height="48" alt="Kotlin" />
       </a>
-      <br>C#
+      <br>Kotlin
     </td>
     <td align="center"  width="96">
       <a href="#jjandoso-tech">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="48" height="48" alt="MySQL" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="48" height="48" alt="Flutter" />
       </a>
-      <br>MySQL
+      <br>Flutter
+    </td>
+     <td align="center"  width="96">
+      <a href="#jjandoso-tech">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" width="48" height="48" alt="dart" />
+      </a>
+      <br>Dart
     </td>
   </tr>
 </table>
